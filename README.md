@@ -442,10 +442,16 @@ Apache 2.0. GLM-5.2 weights are released by Z.ai under MIT.
 
 ---
 
+---
+
 ## License
 
-This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
-See the [LICENSE](LICENSE) file for the full license text.
+The original Apache-2.0 license remains in effect for unmodified project code.
+See [LICENSE](LICENSE) for details.
+
+All waefrebeorn modifications, extensions, and new code
+fall under the **Waefrebeorn Umbrella License v3.0**.
+See [LICENSE.waefrebeorn](LICENSE.waefrebeorn) for the full license text.
 
 The Waefrebeorn Umbrella License is a custom source-available license.
 It is not OSI-approved and not FSF-approved.
